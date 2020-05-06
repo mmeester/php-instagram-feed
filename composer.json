@@ -1,0 +1,14 @@
+{
+    "name": "maurits/php-instagram-scraper",
+    "type": "project",
+    "require": {
+        "raiym/instagram-php-scraper": "^0.9.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maurits Meester",
+            "email": "maurits@e-mmer.nl"
+        }
+    ]
+}
